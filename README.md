@@ -20,20 +20,20 @@
   <a href="https://reactjs.org/" target="_blank"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a>
-  <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"
+  <a href="https://nextjs.org/" target="_blank"> <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png"
       alt="nextjs" width="40" height="40" /> </a>
   <a href="https://tailwindcss.com/" target="_blank"> <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
   </a>
   <a href="https://webpack.js.org" target="_blank"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
+      src="https://hsto.org/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png"
       alt="webpack" width="40" height="40" /> </a>
   &nbsp&nbsp&nbsp&nbsp
   <a href="https://nodejs.org" target="_blank"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://web-creator.ru/uploads/Page/22/nodejs.svg"
       alt="nodejs" width="40" height="40" /> </a>
   <a href="https://expressjs.com" target="_blank"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprYdebuGjpDHnU5L4QZOI5ZrqyWmHIRjSBdq5ABi5Z_gcdnP_AgRtLEAsdwuokyhCGtU&usqp=CAU"
       alt="express" width="40" height="40" /> </a>
   <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
       alt="graphql" width="40" height="40" /> </a>
@@ -45,10 +45,10 @@
       alt="heroku" width="40" height="40" /> </a>
   &nbsp&nbsp&nbsp&nbsp
   <a href="https://www.mongodb.com/" target="_blank"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2016/06/mongo.png"
       alt="mongodb" width="40" height="40" /> </a>
   <a href="https://www.postgresql.org" target="_blank"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"
       alt="postgresql" width="40" height="40" /> </a>
 
 </p>
