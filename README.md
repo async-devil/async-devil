@@ -49,21 +49,15 @@
       alt="mongodb" width="40" height="40" /> </a>
   <a href="https://www.postgresql.org" target="_blank"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql" width="40" height="40" /> </a>&nbsp&nbsp&nbsp&nbsp
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-  </a>
-  <a href="https://fishshell.com/" target="_blank">
-    <img src="https://fishshell.com/assets/img/Terminal_Logo_LCD_Small.png" alt="bash" width="40" height="40" />
-  </a>
+      alt="postgresql" width="40" height="40" /> </a>
 
 </p>
 <p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=async-devil&layout=compact&title_color=24292e&count_private=true&bg_color=fff&cache_seconds=3600"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=async-devil&layout=compact&count_private=true&cache_seconds=3600&theme=nord"
     alt="async-devil" /></p>
 
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=async-devil&show_icons=true&theme=graywhite&count_private=true&cache_seconds=3600"
+    src="https://github-readme-stats.vercel.app/api?username=async-devil&show_icons=true&theme=nord&count_private=true&cache_seconds=3600"
     alt="async-devil" /></p>
 
 <p align="left"> <img
