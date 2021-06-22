@@ -11,44 +11,44 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      src="./img/javascript.svg"
       alt="javascript" width="40" height="40" /> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      src="./img/typescript.svg"
       alt="typescript" width="40" height="40" /> </a>
   &nbsp&nbsp&nbsp&nbsp
   <a href="https://reactjs.org/" target="_blank"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      src="./img/react.svg"
       alt="react" width="40" height="40" /> </a>
-  <a href="https://nextjs.org/" target="_blank"> <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png"
+  <a href="https://nextjs.org/" target="_blank"> <img src="./img/nextjs.png"
       alt="nextjs" width="40" height="40" /> </a>
   <a href="https://tailwindcss.com/" target="_blank"> <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
+      src="./img/tailwindcss.svg" alt="tailwind" width="40" height="40" />
   </a>
   <a href="https://webpack.js.org" target="_blank"> <img
-      src="https://hsto.org/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png"
+      src="./img/webpack.png"
       alt="webpack" width="40" height="40" /> </a>
   &nbsp&nbsp&nbsp&nbsp
   <a href="https://nodejs.org" target="_blank"> <img
-      src="https://web-creator.ru/uploads/Page/22/nodejs.svg"
+      src="./img/nodejs.svg"
       alt="nodejs" width="40" height="40" /> </a>
   <a href="https://expressjs.com" target="_blank"> <img
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQprYdebuGjpDHnU5L4QZOI5ZrqyWmHIRjSBdq5ABi5Z_gcdnP_AgRtLEAsdwuokyhCGtU&usqp=CAU"
+      src="./img/express.png"
       alt="express" width="40" height="40" /> </a>
-  <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
+  <a href="https://graphql.org" target="_blank"> <img src="./img/graphql.svg"
       alt="graphql" width="40" height="40" /> </a>
-  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+  <a href="https://jestjs.io" target="_blank"> <img src="./img/jest.svg"
       alt="jest" width="40" height="40" /> </a>
-  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
+  <a href="https://heroku.com" target="_blank"> <img src="./img/heroku.svg"
       alt="heroku" width="40" height="40" /> </a>
-  <a href="https://discord.js.org" target="_blank"> <img src="https://discord.js.org/static/logo-square.png"
-      alt="heroku" width="40" height="40" /> </a>
+  <a href="https://discord.js.org" target="_blank"> <img src="./img/discordjs.png"
+      alt="discord.js" width="40" height="40" /> </a>
   &nbsp&nbsp&nbsp&nbsp
   <a href="https://www.mongodb.com/" target="_blank"> <img
-      src="https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2016/06/mongo.png"
+      src="./img/mongo.png"
       alt="mongodb" width="40" height="40" /> </a>
   <a href="https://www.postgresql.org" target="_blank"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"
+      src="./img/postgresql.png"
       alt="postgresql" width="40" height="40" /> </a>
 
 </p>
