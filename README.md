@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Timofii Khomenko</h1>  
  
-- 🔭 I’m currently working on **study repositories**  
+- 🔭 I’m currently working on **portfolio apps**  
   
 - 🌱 I’m currently learning **Next.js**  
   
