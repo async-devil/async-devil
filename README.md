@@ -2,7 +2,7 @@
  
 - 🔭 I’m currently working on **portfolio apps**  
   
-- 🌱 I’m currently learning **Next.js**  
+- 🌱 I’m currently learning **Nest.js**  
   
 - 👯 I’m looking to collaborate on **intresting things**  
   
