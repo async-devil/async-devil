@@ -2,7 +2,7 @@
  
 - 🔭 I’m currently working on **portfolio apps**  
   
-- 🌱 I’m currently learning **Nest.js**  
+- 🌱 I’m currently learning **Ant Design UI**  
   
 - 👯 I’m looking to collaborate on **intresting things**  
   
@@ -35,6 +35,9 @@
   <a href="https://expressjs.com" target="_blank"> <img
       src="./img/express.png"
       alt="express" width="40" height="40" /> </a>
+  <a href="https://nestjs.com/" target="_blank"> <img
+      src="./img/nestjs.svg"
+      alt="express" width="40" height="40" /> </a>    
   <a href="https://graphql.org" target="_blank"> <img src="./img/graphql.svg"
       alt="graphql" width="40" height="40" /> </a>
   <a href="https://jestjs.io" target="_blank"> <img src="./img/jest.svg"
