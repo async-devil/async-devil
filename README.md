@@ -2,7 +2,7 @@
  
 - 🔭 I’m currently working on **portfolio apps**  
   
-- 🌱 I’m currently learning **ESP32**  
+- 🌱 I’m currently learning **microservice architecture**  
   
 - 👯 I’m looking to collaborate on **intresting things**  
   
