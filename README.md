@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Timofii Khomenko</h1>  
  
-- 🔭 I’m currently working on **portfolio apps**  
+- 🔭 I’m currently working on **math skills**  
   
-- 🌱 I’m currently learning **microservice architecture**  
+- 🌱 I’m currently learning **Three.js**  
   
 - 👯 I’m looking to collaborate on **interesting things**  
   
