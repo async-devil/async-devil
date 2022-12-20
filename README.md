@@ -2,7 +2,7 @@
  
 - 🔭 I’m currently working on **math skills**  
   
-- 🌱 I’m currently learning **Elixir**  
+- 🌱 I’m currently learning **AWS**  
   
 - 👯 I’m looking to collaborate on **interesting things**  
   
