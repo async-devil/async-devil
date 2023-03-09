@@ -169,7 +169,9 @@
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=async-devil&label=Profile%20views&color=242929&style=flat-square"
+    src="https://komarev.com/ghpvc/?username=async-devil&label=Profile%20views&color=242929&style=for-the-badge"
     alt="async-devil"
   />
 </p>
+
+<a href="https://wakatime.com/@bc8fa60c-fa34-4507-b70f-24bdba32a74d"><img src="https://wakatime.com/badge/user/bc8fa60c-fa34-4507-b70f-24bdba32a74d.svg?style=for-the-badge" alt="Total time coded since Apr 2 2021" /></a>
