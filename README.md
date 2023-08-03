@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Timofii Khomenko</h1>  
+<h1 align="center">Hi 👋, I'm Tymofii Khomenko</h1>  
  
 - 🔭 I’m currently working on **math skills**  
   
@@ -6,7 +6,7 @@
   
 - 👯 I’m looking to collaborate on **interesting things**  
   
-- 📫 You could reach me at **khomenko.timofii@gmail.com**
+- 📫 You could reach me at **tymofii.khomenko@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
