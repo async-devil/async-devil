@@ -1,177 +1,32 @@
-<h1 align="center">Hi 👋, I'm Tymofii Khomenko</h1>  
- 
-- 🔭 I’m currently working on **math skills**  
-  
-- 🌱 I’m currently learning **AWS**  
-  
-- 👯 I’m looking to collaborate on **interesting things**  
-  
-- 📫 You could reach me at **tymofii.khomenko@gmail.com**
+# Welcome to my page
 
-<h3 align="left">Languages and Tools:</h3>
+I'm Tymofii, Backend developer from 🇺🇦 Kyiv, Ukraine, currently living in 🇨🇿 Prague, Czechia.
+____
 
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="./img/typescript.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="./img/javascript.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="./img/c++.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp&nbsp&nbsp&nbsp
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="./img/nodejs.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img
-        src="./img/express.png"
-        alt="express"
-        width="40"
-        height="40"
-      />
-    </a>
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img
-      src="./img/nestjs.svg"
-      alt="nestjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp&nbsp&nbsp&nbsp
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="./img/react.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img
-      src="./img/angular.svg"
-      alt="angular"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp&nbsp&nbsp&nbsp
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="./img/postgresql.png"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="./img/mongo.png"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp&nbsp&nbsp&nbsp
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="./img/docker.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-    <img
-      src="./img/rmq.svg"
-      alt="rabbitMQ"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img
-      src="./img/nginx.svg"
-      alt="nginx"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp&nbsp&nbsp&nbsp
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img
-      src="./img/heroku.svg"
-      alt="heroku"
-      width="40"
-      height="40"
-    />
-  </a>
-  &nbsp&nbsp&nbsp&nbsp
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img
-      src="./img/bash.svg"
-      alt="bash"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img
-      src="./img/jest.svg"
-      alt="jest"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+![Languages](https://img.shields.io/static/v1?label=&message=Languages:&color=111&style=flat-square)
+![Typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=Typescript&color=36465D&logoColor=AAA&style=flat-square&link=)
+![JavaScript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=36465D&logoColor=AAA&style=flat-square)
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=async-devil&layout=compact&count_private=true&cache_seconds=3600&theme=nord"
-    alt="async-devil"
-  />
-</p>
+![Technologies](https://img.shields.io/static/v1?label=&message=Technologies:&color=111&style=flat-square)
+![Node.js](https://img.shields.io/static/v1?logo=node.js&label=&message=Node.js&color=36465D&logoColor=AAA&style=flat-square)
+![Fastify](https://img.shields.io/static/v1?logo=fastify&label=&message=Fastify&color=36465D&logoColor=AAA&style=flat-square)
+![Express](https://img.shields.io/static/v1?logo=express&label=&message=Express&color=36465D&logoColor=AAA&style=flat-square)
+![NestJS](https://img.shields.io/static/v1?logo=nestjs&label=&message=NestJS&color=36465D&logoColor=AAA&style=flat-square)
+![PostgreSQL](https://img.shields.io/static/v1?logo=postgresql&label=&message=PostgreSQL&color=36465D&logoColor=AAA&style=flat-square)
+![MongoDB](https://img.shields.io/static/v1?logo=mongodb&label=&message=MongoDB&color=36465D&logoColor=AAA&style=flat-square)
+![ArangoDB](https://img.shields.io/static/v1?logo=arangodb&label=&message=ArangoDB&color=36465D&logoColor=AAA&style=flat-square)
+![TypeORM](https://img.shields.io/static/v1?label=&message=TypeORM&color=36465D&logoColor=AAA&style=flat-square)
+![Mongoose](https://img.shields.io/static/v1?logo=mongoose&label=&message=Mongoose&color=36465D&logoColor=AAA&style=flat-square)
+![RabbitMQ](https://img.shields.io/static/v1?logo=rabbitmq&label=&message=Rabbitmq&color=36465D&logoColor=AAA&style=flat-square)
+![Nginx](https://img.shields.io/static/v1?logo=nginx&label=&message=Nginx&color=36465D&logoColor=AAA&style=flat-square)
+![Angular](https://img.shields.io/static/v1?logo=angular&label=&message=Angular&color=36465D&logoColor=AAA&style=flat-square)
+![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=36465D&logoColor=AAA&style=flat-square)
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=async-devil&show_icons=true&theme=nord&count_private=true&cache_seconds=3600"
-    alt="async-devil"
-  />
-</p>
-
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=async-devil&label=Profile%20views&color=242929&style=for-the-badge"
-    alt="async-devil"
-  />
-</p>
+![Tools](https://img.shields.io/static/v1?label=&message=Tools:&color=111&style=flat-square)
+![Git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=36465D&logoColor=AAA&style=flat-square)
+![GitHub Actions](https://img.shields.io/static/v1?logo=github-actions&label=&message=GitHub+Actions&color=36465D&logoColor=AAA&style=flat-square)
+![Docker](https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=36465D&logoColor=AAA&style=flat-square)
+![Jest](https://img.shields.io/static/v1?logo=jest&label=&message=Jest&color=36465D&logoColor=AAA&style=flat-square)
+![Heroku](https://img.shields.io/static/v1?logo=heroku&label=&message=Heroku&color=36465D&logoColor=AAA&style=flat-square)
 
 <a href="https://wakatime.com/@bc8fa60c-fa34-4507-b70f-24bdba32a74d"><img src="https://wakatime.com/badge/user/bc8fa60c-fa34-4507-b70f-24bdba32a74d.svg?style=for-the-badge" alt="Total time coded since Apr 2 2021" /></a>
