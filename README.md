@@ -14,6 +14,7 @@ ____
 ![NestJS](https://img.shields.io/static/v1?logo=nestjs&label=&message=NestJS&color=36465D&logoColor=AAA&style=flat-square)
 ![PostgreSQL](https://img.shields.io/static/v1?logo=postgresql&label=&message=PostgreSQL&color=36465D&logoColor=AAA&style=flat-square)
 ![MongoDB](https://img.shields.io/static/v1?logo=mongodb&label=&message=MongoDB&color=36465D&logoColor=AAA&style=flat-square)
+![Redis](https://img.shields.io/static/v1?logo=redis&label=&message=Redis&color=36465D&logoColor=AAA&style=flat-square)
 ![ArangoDB](https://img.shields.io/static/v1?logo=arangodb&label=&message=ArangoDB&color=36465D&logoColor=AAA&style=flat-square)
 ![TypeORM](https://img.shields.io/static/v1?label=&message=TypeORM&color=36465D&logoColor=AAA&style=flat-square)
 ![Mongoose](https://img.shields.io/static/v1?logo=mongoose&label=&message=Mongoose&color=36465D&logoColor=AAA&style=flat-square)
