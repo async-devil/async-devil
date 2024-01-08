@@ -26,7 +26,11 @@ ____
 ![Git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=36465D&logoColor=AAA&style=flat-square)
 ![GitHub Actions](https://img.shields.io/static/v1?logo=github-actions&label=&message=GitHub+Actions&color=36465D&logoColor=AAA&style=flat-square)
 ![Docker](https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=36465D&logoColor=AAA&style=flat-square)
+![AWS CloudFormation](https://img.shields.io/static/v1?label=&message=AWS+CloudFormation&color=36465D&logoColor=AAA&style=flat-square)
+![Amazon S3](https://img.shields.io/static/v1?logo=amazon-s3&label=&message=Amazon+S3&color=36465D&logoColor=AAA&style=flat-square)
+![Amazon EC2](https://img.shields.io/static/v1?logo=amazon-ec2&label=&message=Amazon+EC2&color=36465D&logoColor=AAA&style=flat-square)
 ![Jest](https://img.shields.io/static/v1?logo=jest&label=&message=Jest&color=36465D&logoColor=AAA&style=flat-square)
 ![Heroku](https://img.shields.io/static/v1?logo=heroku&label=&message=Heroku&color=36465D&logoColor=AAA&style=flat-square)
+
 
 <a href="https://wakatime.com/@bc8fa60c-fa34-4507-b70f-24bdba32a74d"><img src="https://wakatime.com/badge/user/bc8fa60c-fa34-4507-b70f-24bdba32a74d.svg?style=for-the-badge" alt="Total time coded since Apr 2 2021" /></a>
